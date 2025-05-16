@@ -1,0 +1,25 @@
+{
+  "name": "api-docs-server",
+  "version": "1.0.0",
+  "description": "Serves OpenAPI documentation and OAuth2 token proxy",
+  "main": "startApiDocsServer.js",
+  "scripts": {
+    "start": "node startApiDocsServer.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "openapi",
+    "api-docs",
+    "swagger-ui",
+    "oauth2"
+  ],
+  "author": "Oleksandr Bubnov - Email: <rentedcalamity@proton.me>, GitHub <https://github.com/xXxCalamityxXx>",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "express": "^5.1.0",
+    "swagger-ui-express": "^5.0.1",
+    "yamljs": "^0.3.0"
+  }
+}

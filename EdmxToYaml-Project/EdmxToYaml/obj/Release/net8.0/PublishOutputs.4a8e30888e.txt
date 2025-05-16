@@ -1,0 +1,11 @@
+C:\Users\oleksandr.bubnov\OneDrive - Arquiconsult\Desktop\EdmxToYaml\EdmxToYaml\bin\Release\net8.0\publish\EdmxToYaml.exe
+C:\Users\oleksandr.bubnov\OneDrive - Arquiconsult\Desktop\EdmxToYaml\EdmxToYaml\bin\Release\net8.0\publish\EdmxToYaml.dll
+C:\Users\oleksandr.bubnov\OneDrive - Arquiconsult\Desktop\EdmxToYaml\EdmxToYaml\bin\Release\net8.0\publish\EdmxToYaml.deps.json
+C:\Users\oleksandr.bubnov\OneDrive - Arquiconsult\Desktop\EdmxToYaml\EdmxToYaml\bin\Release\net8.0\publish\EdmxToYaml.runtimeconfig.json
+C:\Users\oleksandr.bubnov\OneDrive - Arquiconsult\Desktop\EdmxToYaml\EdmxToYaml\bin\Release\net8.0\publish\EdmxToYaml.pdb
+C:\Users\oleksandr.bubnov\OneDrive - Arquiconsult\Desktop\EdmxToYaml\EdmxToYaml\bin\Release\net8.0\publish\Microsoft.OData.Edm.dll
+C:\Users\oleksandr.bubnov\OneDrive - Arquiconsult\Desktop\EdmxToYaml\EdmxToYaml\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+C:\Users\oleksandr.bubnov\OneDrive - Arquiconsult\Desktop\EdmxToYaml\EdmxToYaml\bin\Release\net8.0\publish\Microsoft.OpenApi.OData.Reader.dll
+C:\Users\oleksandr.bubnov\OneDrive - Arquiconsult\Desktop\EdmxToYaml\EdmxToYaml\bin\Release\net8.0\publish\Serilog.dll
+C:\Users\oleksandr.bubnov\OneDrive - Arquiconsult\Desktop\EdmxToYaml\EdmxToYaml\bin\Release\net8.0\publish\Serilog.Sinks.Console.dll
+C:\Users\oleksandr.bubnov\OneDrive - Arquiconsult\Desktop\EdmxToYaml\EdmxToYaml\bin\Release\net8.0\publish\Serilog.Sinks.File.dll
