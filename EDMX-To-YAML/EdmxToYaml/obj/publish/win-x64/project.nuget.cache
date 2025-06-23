@@ -1,0 +1,23 @@
+{
+  "version": 2,
+  "dgSpecHash": "0ZkBcyVETnE=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oleksandr.bubnov\\OneDrive - Arquiconsult\\Desktop\\Satifinal\\EDMX-To-YAML\\EdmxToYaml\\EdmxToYaml.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oleksandr.bubnov\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.15\\microsoft.net.illink.tasks.8.0.15.nupkg.sha512",
+    "C:\\Users\\oleksandr.bubnov\\.nuget\\packages\\microsoft.odata.edm\\7.21.6\\microsoft.odata.edm.7.21.6.nupkg.sha512",
+    "C:\\Users\\oleksandr.bubnov\\.nuget\\packages\\microsoft.openapi\\1.6.23\\microsoft.openapi.1.6.23.nupkg.sha512",
+    "C:\\Users\\oleksandr.bubnov\\.nuget\\packages\\microsoft.openapi.odata\\1.7.5\\microsoft.openapi.odata.1.7.5.nupkg.sha512",
+    "C:\\Users\\oleksandr.bubnov\\.nuget\\packages\\serilog\\4.2.0\\serilog.4.2.0.nupkg.sha512",
+    "C:\\Users\\oleksandr.bubnov\\.nuget\\packages\\serilog.sinks.console\\6.0.0\\serilog.sinks.console.6.0.0.nupkg.sha512",
+    "C:\\Users\\oleksandr.bubnov\\.nuget\\packages\\serilog.sinks.file\\7.0.0\\serilog.sinks.file.7.0.0.nupkg.sha512",
+    "C:\\Users\\oleksandr.bubnov\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.6.0\\system.runtime.compilerservices.unsafe.4.6.0.nupkg.sha512",
+    "C:\\Users\\oleksandr.bubnov\\.nuget\\packages\\system.text.encodings.web\\4.7.2\\system.text.encodings.web.4.7.2.nupkg.sha512",
+    "C:\\Users\\oleksandr.bubnov\\.nuget\\packages\\system.text.json\\4.6.0\\system.text.json.4.6.0.nupkg.sha512",
+    "C:\\Users\\oleksandr.bubnov\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.15\\microsoft.netcore.app.runtime.win-x64.8.0.15.nupkg.sha512",
+    "C:\\Users\\oleksandr.bubnov\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.15\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.15.nupkg.sha512",
+    "C:\\Users\\oleksandr.bubnov\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.15\\microsoft.aspnetcore.app.runtime.win-x64.8.0.15.nupkg.sha512",
+    "C:\\Users\\oleksandr.bubnov\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\8.0.15\\microsoft.netcore.app.crossgen2.win-x64.8.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

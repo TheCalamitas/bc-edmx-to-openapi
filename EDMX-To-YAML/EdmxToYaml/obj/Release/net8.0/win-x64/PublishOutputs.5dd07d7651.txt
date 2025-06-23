@@ -1,0 +1,2 @@
+C:\Users\oleksandr.bubnov\OneDrive - Arquiconsult\Desktop\C#ConverterUpdate\EdmxToYaml.pdb
+C:\Users\oleksandr.bubnov\OneDrive - Arquiconsult\Desktop\C#ConverterUpdate\EdmxToYaml.exe
