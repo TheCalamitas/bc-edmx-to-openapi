@@ -39,7 +39,7 @@ The project consists of three parts:
 
 ## PREPARATION
 
-Ensure that `Get-EdmxAndConvertToYaml.ps1`, `EdmxToYaml.exe`, **Node.JS server files and packages** are all in the same directory.
+Ensure that `Get-EdmxAndConvertToYaml.ps1`, `EdmxToYaml.exe`, `Node.JS server files and packages` are all in the same directory.
 
 ## STEP 1
 
@@ -78,7 +78,7 @@ $MetadataUrl = "$($BuildAPIBaseURL.TrimEnd('/'))/" + "`$metadata?tenant=True"
 
 *This step is only necessary if you obtained the metadata using a different method. Otherwise, it is handled automatically by the PowerShell script*
 
-The C# converter, `EdmxToYaml.exe`, searches for an `edmx.xml` file inside the **OutputEDMX** folder. The executable accepts **two** parameters: the base API URL to be included in the specification and the authorization type ("Basic" or "OAuth2.0").
+The C# converter, `EdmxToYaml.exe`, searches for an `edmx.xml` file inside the **OutputEDMX** folder. The executable accepts **2** parameters: the base API URL to be included in the specification and the authorization type ("Basic" or "OAuth2.0").
 
 ```bash
 ./EdmxToYaml.exe "https://BusinessCentral/api/v2.0" "OAuth2.0"
