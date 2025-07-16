@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\oleksandr.bubnov\\OneDrive - Arquiconsult\\Desktop\\Satifinal\\EDMX-To-YAML\\",
+  "WorkspaceRootPath": "C:\\Users\\oleksandr.bubnov\\OneDrive - Arquiconsult\\Desktop\\bc-edmx-to-openapi\\EDMX-To-YAML\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{56BC57AA-8C10-4E9E-B4CF-C0C0666C1ECE}|EdmxToYaml\\EdmxToYaml.csproj|c:\\users\\oleksandr.bubnov\\onedrive - arquiconsult\\desktop\\satifinal\\edmx-to-yaml\\edmxtoyaml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56BC57AA-8C10-4E9E-B4CF-C0C0666C1ECE}|EdmxToYaml\\EdmxToYaml.csproj|solutionrelative:edmxtoyaml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56BC57AA-8C10-4E9E-B4CF-C0C0666C1ECE}|EdmxToYaml\\EdmxToYaml.csproj|c:\\users\\oleksandr.bubnov\\onedrive - arquiconsult\\desktop\\bc-edmx-to-openapi\\edmx-to-yaml\\edmxtoyaml\\openapigenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56BC57AA-8C10-4E9E-B4CF-C0C0666C1ECE}|EdmxToYaml\\EdmxToYaml.csproj|solutionrelative:edmxtoyaml\\openapigenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56BC57AA-8C10-4E9E-B4CF-C0C0666C1ECE}|EdmxToYaml\\EdmxToYaml.csproj|c:\\users\\oleksandr.bubnov\\onedrive - arquiconsult\\desktop\\satifinal\\edmx-to-yaml\\edmxtoyaml\\edmextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{56BC57AA-8C10-4E9E-B4CF-C0C0666C1ECE}|EdmxToYaml\\EdmxToYaml.csproj|c:\\users\\oleksandr.bubnov\\onedrive - arquiconsult\\desktop\\bc-edmx-to-openapi\\edmx-to-yaml\\edmxtoyaml\\edmextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{56BC57AA-8C10-4E9E-B4CF-C0C0666C1ECE}|EdmxToYaml\\EdmxToYaml.csproj|solutionrelative:edmxtoyaml\\edmextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{56BC57AA-8C10-4E9E-B4CF-C0C0666C1ECE}|EdmxToYaml\\EdmxToYaml.csproj|c:\\users\\oleksandr.bubnov\\onedrive - arquiconsult\\desktop\\satifinal\\edmx-to-yaml\\edmxtoyaml\\openapigenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{56BC57AA-8C10-4E9E-B4CF-C0C0666C1ECE}|EdmxToYaml\\EdmxToYaml.csproj|solutionrelative:edmxtoyaml\\openapigenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{56BC57AA-8C10-4E9E-B4CF-C0C0666C1ECE}|EdmxToYaml\\EdmxToYaml.csproj|c:\\users\\oleksandr.bubnov\\onedrive - arquiconsult\\desktop\\bc-edmx-to-openapi\\edmx-to-yaml\\edmxtoyaml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56BC57AA-8C10-4E9E-B4CF-C0C0666C1ECE}|EdmxToYaml\\EdmxToYaml.csproj|solutionrelative:edmxtoyaml\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "OpenApiGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\oleksandr.bubnov\\OneDrive - Arquiconsult\\Desktop\\Satifinal\\EDMX-To-YAML\\EdmxToYaml\\OpenApiGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\oleksandr.bubnov\\OneDrive - Arquiconsult\\Desktop\\bc-edmx-to-openapi\\EDMX-To-YAML\\EdmxToYaml\\OpenApiGenerator.cs",
               "RelativeDocumentMoniker": "EdmxToYaml\\OpenApiGenerator.cs",
-              "ToolTip": "C:\\Users\\oleksandr.bubnov\\OneDrive - Arquiconsult\\Desktop\\Satifinal\\EDMX-To-YAML\\EdmxToYaml\\OpenApiGenerator.cs",
+              "ToolTip": "C:\\Users\\oleksandr.bubnov\\OneDrive - Arquiconsult\\Desktop\\bc-edmx-to-openapi\\EDMX-To-YAML\\EdmxToYaml\\OpenApiGenerator.cs",
               "RelativeToolTip": "EdmxToYaml\\OpenApiGenerator.cs",
-              "ViewState": "AgIAAOcAAAAAAAAAAAASwO4AAABRAAAAAAAAAA==",
+              "ViewState": "AgIAALYBAAAAAAAAAAAUwNIBAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-16T13:30:30.858Z",
               "EditorCaption": ""
@@ -41,27 +41,25 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "EdmExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\oleksandr.bubnov\\OneDrive - Arquiconsult\\Desktop\\Satifinal\\EDMX-To-YAML\\EdmxToYaml\\EdmExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\oleksandr.bubnov\\OneDrive - Arquiconsult\\Desktop\\bc-edmx-to-openapi\\EDMX-To-YAML\\EdmxToYaml\\EdmExtensions.cs",
               "RelativeDocumentMoniker": "EdmxToYaml\\EdmExtensions.cs",
-              "ToolTip": "C:\\Users\\oleksandr.bubnov\\OneDrive - Arquiconsult\\Desktop\\Satifinal\\EDMX-To-YAML\\EdmxToYaml\\EdmExtensions.cs",
+              "ToolTip": "C:\\Users\\oleksandr.bubnov\\OneDrive - Arquiconsult\\Desktop\\bc-edmx-to-openapi\\EDMX-To-YAML\\EdmxToYaml\\EdmExtensions.cs",
               "RelativeToolTip": "EdmxToYaml\\EdmExtensions.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBUAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAwBUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T13:29:32.816Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T13:29:32.816Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\oleksandr.bubnov\\OneDrive - Arquiconsult\\Desktop\\Satifinal\\EDMX-To-YAML\\EdmxToYaml\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\oleksandr.bubnov\\OneDrive - Arquiconsult\\Desktop\\bc-edmx-to-openapi\\EDMX-To-YAML\\EdmxToYaml\\Program.cs",
               "RelativeDocumentMoniker": "EdmxToYaml\\Program.cs",
-              "ToolTip": "C:\\Users\\oleksandr.bubnov\\OneDrive - Arquiconsult\\Desktop\\Satifinal\\EDMX-To-YAML\\EdmxToYaml\\Program.cs",
+              "ToolTip": "C:\\Users\\oleksandr.bubnov\\OneDrive - Arquiconsult\\Desktop\\bc-edmx-to-openapi\\EDMX-To-YAML\\EdmxToYaml\\Program.cs",
               "RelativeToolTip": "EdmxToYaml\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAA4wB4AAAAsAAAAAAAAAA==",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAAAB4AAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-16T12:52:07.78Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-16T12:52:07.78Z"
             }
           ]
         }

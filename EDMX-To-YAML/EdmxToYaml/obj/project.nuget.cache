@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dZk3gui1lro=",
+  "dgSpecHash": "njzCkUZ1nwU=",
   "success": true,
-  "projectFilePath": "C:\\Users\\oleksandr.bubnov\\OneDrive - Arquiconsult\\Desktop\\Reset\\bc-edmx-to-openapi\\EDMX-To-YAML\\EdmxToYaml\\EdmxToYaml.csproj",
+  "projectFilePath": "C:\\Users\\oleksandr.bubnov\\OneDrive - Arquiconsult\\Desktop\\bc-edmx-to-openapi\\EDMX-To-YAML\\EdmxToYaml\\EdmxToYaml.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\oleksandr.bubnov\\.nuget\\packages\\microsoft.odata.edm\\7.21.6\\microsoft.odata.edm.7.21.6.nupkg.sha512",
     "C:\\Users\\oleksandr.bubnov\\.nuget\\packages\\microsoft.openapi\\1.6.23\\microsoft.openapi.1.6.23.nupkg.sha512",

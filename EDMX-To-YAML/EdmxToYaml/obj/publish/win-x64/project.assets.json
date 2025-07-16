@@ -2,7 +2,7 @@
   "version": 3,
   "targets": {
     "net8.0": {
-      "Microsoft.NET.ILLink.Tasks/8.0.15": {
+      "Microsoft.NET.ILLink.Tasks/8.0.17": {
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
@@ -142,7 +142,7 @@
       }
     },
     "net8.0/win-x64": {
-      "Microsoft.NET.ILLink.Tasks/8.0.15": {
+      "Microsoft.NET.ILLink.Tasks/8.0.17": {
         "type": "package",
         "build": {
           "build/Microsoft.NET.ILLink.Tasks.props": {}
@@ -283,10 +283,10 @@
     }
   },
   "libraries": {
-    "Microsoft.NET.ILLink.Tasks/8.0.15": {
-      "sha512": "s4eXlcRGyHeCgFUGQnhq0e/SCHBPp0jOHgMqZg3fQ2OCHJSm1aOUhI6RFWuVIcEb9ig2WgI2kWukk8wu72EbUQ==",
+    "Microsoft.NET.ILLink.Tasks/8.0.17": {
+      "sha512": "x5/y4l8AtshpBOrCZdlE4txw8K3e3s9meBFeZeR3l8hbbku2V7kK6ojhXvrbjg1rk3G+JqL1BI26gtgc1ZrdUw==",
       "type": "package",
-      "path": "microsoft.net.illink.tasks/8.0.15",
+      "path": "microsoft.net.illink.tasks/8.0.17",
       "hasTools": true,
       "files": [
         ".nupkg.metadata",
@@ -300,7 +300,7 @@
         "build/Microsoft.NET.ILLink.Analyzers.props",
         "build/Microsoft.NET.ILLink.Tasks.props",
         "build/Microsoft.NET.ILLink.targets",
-        "microsoft.net.illink.tasks.8.0.15.nupkg.sha512",
+        "microsoft.net.illink.tasks.8.0.17.nupkg.sha512",
         "microsoft.net.illink.tasks.nuspec",
         "tools/net472/ILLink.Tasks.dll",
         "tools/net472/ILLink.Tasks.dll.config",
@@ -527,7 +527,7 @@
   },
   "projectFileDependencyGroups": {
     "net8.0": [
-      "Microsoft.NET.ILLink.Tasks >= 8.0.15",
+      "Microsoft.NET.ILLink.Tasks >= 8.0.17",
       "Microsoft.OpenApi.OData >= 1.7.5",
       "Serilog >= 4.2.0",
       "Serilog.Sinks.Console >= 6.0.0",
@@ -541,11 +541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oleksandr.bubnov\\OneDrive - Arquiconsult\\Desktop\\Satifinal\\EDMX-To-YAML\\EdmxToYaml\\EdmxToYaml.csproj",
+      "projectUniqueName": "C:\\Users\\oleksandr.bubnov\\OneDrive - Arquiconsult\\Desktop\\bc-edmx-to-openapi\\EDMX-To-YAML\\EdmxToYaml\\EdmxToYaml.csproj",
       "projectName": "EdmxToYaml",
-      "projectPath": "C:\\Users\\oleksandr.bubnov\\OneDrive - Arquiconsult\\Desktop\\Satifinal\\EDMX-To-YAML\\EdmxToYaml\\EdmxToYaml.csproj",
+      "projectPath": "C:\\Users\\oleksandr.bubnov\\OneDrive - Arquiconsult\\Desktop\\bc-edmx-to-openapi\\EDMX-To-YAML\\EdmxToYaml\\EdmxToYaml.csproj",
       "packagesPath": "C:\\Users\\oleksandr.bubnov\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oleksandr.bubnov\\OneDrive - Arquiconsult\\Desktop\\Satifinal\\EDMX-To-YAML\\EdmxToYaml\\obj\\publish\\win-x64\\",
+      "outputPath": "C:\\Users\\oleksandr.bubnov\\OneDrive - Arquiconsult\\Desktop\\bc-edmx-to-openapi\\EDMX-To-YAML\\EdmxToYaml\\obj\\publish\\win-x64\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -578,7 +578,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net8.0": {
@@ -587,7 +587,7 @@
           "Microsoft.NET.ILLink.Tasks": {
             "suppressParent": "All",
             "target": "Package",
-            "version": "[8.0.15, )",
+            "version": "[8.0.17, )",
             "autoReferenced": true
           },
           "Microsoft.OpenApi.OData": {
@@ -621,19 +621,19 @@
         "downloadDependencies": [
           {
             "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-            "version": "[8.0.15, 8.0.15]"
+            "version": "[8.0.17, 8.0.17]"
           },
           {
             "name": "Microsoft.NETCore.App.Crossgen2.win-x64",
-            "version": "[8.0.15, 8.0.15]"
+            "version": "[8.0.17, 8.0.17]"
           },
           {
             "name": "Microsoft.NETCore.App.Runtime.win-x64",
-            "version": "[8.0.15, 8.0.15]"
+            "version": "[8.0.17, 8.0.17]"
           },
           {
             "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
-            "version": "[8.0.15, 8.0.15]"
+            "version": "[8.0.17, 8.0.17]"
           }
         ],
         "frameworkReferences": {
@@ -641,7 +641,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {

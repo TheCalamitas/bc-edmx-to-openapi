@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\oleksandr.bubnov\\OneDrive - Arquiconsult\\Desktop\\Satifinal\\EDMX-To-YAML\\EdmxToYaml\\EdmxToYaml.csproj": {}
+    "C:\\Users\\oleksandr.bubnov\\OneDrive - Arquiconsult\\Desktop\\bc-edmx-to-openapi\\EDMX-To-YAML\\EdmxToYaml\\EdmxToYaml.csproj": {}
   },
   "projects": {
-    "C:\\Users\\oleksandr.bubnov\\OneDrive - Arquiconsult\\Desktop\\Satifinal\\EDMX-To-YAML\\EdmxToYaml\\EdmxToYaml.csproj": {
+    "C:\\Users\\oleksandr.bubnov\\OneDrive - Arquiconsult\\Desktop\\bc-edmx-to-openapi\\EDMX-To-YAML\\EdmxToYaml\\EdmxToYaml.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\oleksandr.bubnov\\OneDrive - Arquiconsult\\Desktop\\Satifinal\\EDMX-To-YAML\\EdmxToYaml\\EdmxToYaml.csproj",
+        "projectUniqueName": "C:\\Users\\oleksandr.bubnov\\OneDrive - Arquiconsult\\Desktop\\bc-edmx-to-openapi\\EDMX-To-YAML\\EdmxToYaml\\EdmxToYaml.csproj",
         "projectName": "EdmxToYaml",
-        "projectPath": "C:\\Users\\oleksandr.bubnov\\OneDrive - Arquiconsult\\Desktop\\Satifinal\\EDMX-To-YAML\\EdmxToYaml\\EdmxToYaml.csproj",
+        "projectPath": "C:\\Users\\oleksandr.bubnov\\OneDrive - Arquiconsult\\Desktop\\bc-edmx-to-openapi\\EDMX-To-YAML\\EdmxToYaml\\EdmxToYaml.csproj",
         "packagesPath": "C:\\Users\\oleksandr.bubnov\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\oleksandr.bubnov\\OneDrive - Arquiconsult\\Desktop\\Satifinal\\EDMX-To-YAML\\EdmxToYaml\\obj\\publish\\win-x64\\",
+        "outputPath": "C:\\Users\\oleksandr.bubnov\\OneDrive - Arquiconsult\\Desktop\\bc-edmx-to-openapi\\EDMX-To-YAML\\EdmxToYaml\\obj\\publish\\win-x64\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -53,7 +53,7 @@
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
               "target": "Package",
-              "version": "[8.0.15, )",
+              "version": "[8.0.17, )",
               "autoReferenced": true
             },
             "Microsoft.OpenApi.OData": {
@@ -87,19 +87,19 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-              "version": "[8.0.15, 8.0.15]"
+              "version": "[8.0.17, 8.0.17]"
             },
             {
               "name": "Microsoft.NETCore.App.Crossgen2.win-x64",
-              "version": "[8.0.15, 8.0.15]"
+              "version": "[8.0.17, 8.0.17]"
             },
             {
               "name": "Microsoft.NETCore.App.Runtime.win-x64",
-              "version": "[8.0.15, 8.0.15]"
+              "version": "[8.0.17, 8.0.17]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
-              "version": "[8.0.15, 8.0.15]"
+              "version": "[8.0.17, 8.0.17]"
             }
           ],
           "frameworkReferences": {
@@ -107,7 +107,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

@@ -385,6 +385,7 @@ namespace EdmxToYaml
             var pathItem = new OpenApiPathItem();
             var postOperation = new OpenApiOperation
             {
+                Servers = new List<OpenApiServer> { new OpenApiServer { Url = "http://localhost:3000" } },
                 Tags = new List<OpenApiTag> { new OpenApiTag { Name = "Authentication Utility" } },
                 Summary = "Get OAuth2.0 Access Token (via proxy)",
                 Description = "Exchanges client credentials for an access token (client_credentials grant).",

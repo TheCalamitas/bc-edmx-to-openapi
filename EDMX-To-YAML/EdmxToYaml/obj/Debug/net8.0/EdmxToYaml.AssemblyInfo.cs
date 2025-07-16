@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EdmxToYaml")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a662515d571e4ea00c918216758777387a422924")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("EdmxToYaml")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EdmxToYaml")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

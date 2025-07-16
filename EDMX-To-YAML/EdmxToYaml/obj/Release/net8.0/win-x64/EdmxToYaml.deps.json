@@ -9,138 +9,138 @@
     ".NETCoreApp,Version=v8.0/win-x64": {
       "EdmxToYaml/1.0.0": {
         "dependencies": {
-          "Microsoft.NET.ILLink.Tasks": "8.0.15",
+          "Microsoft.NET.ILLink.Tasks": "8.0.17",
           "Microsoft.OpenApi.OData": "1.7.5",
           "Serilog": "4.2.0",
           "Serilog.Sinks.Console": "6.0.0",
           "Serilog.Sinks.File": "7.0.0",
-          "runtimepack.Microsoft.NETCore.App.Runtime.win-x64": "8.0.15"
+          "runtimepack.Microsoft.NETCore.App.Runtime.win-x64": "8.0.17"
         },
         "runtime": {
           "EdmxToYaml.dll": {}
         }
       },
-      "runtimepack.Microsoft.NETCore.App.Runtime.win-x64/8.0.15": {
+      "runtimepack.Microsoft.NETCore.App.Runtime.win-x64/8.0.17": {
         "runtime": {
           "Microsoft.Win32.Registry.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.1525.16413"
+            "fileVersion": "8.0.1725.26602"
           },
           "System.Collections.Concurrent.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.1525.16413"
+            "fileVersion": "8.0.1725.26602"
           },
           "System.Collections.Immutable.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.1525.16413"
+            "fileVersion": "8.0.1725.26602"
           },
           "System.Collections.NonGeneric.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.1525.16413"
+            "fileVersion": "8.0.1725.26602"
           },
           "System.Collections.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.1525.16413"
+            "fileVersion": "8.0.1725.26602"
           },
           "System.Console.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.1525.16413"
+            "fileVersion": "8.0.1725.26602"
           },
           "System.Diagnostics.DiagnosticSource.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.1525.16413"
+            "fileVersion": "8.0.1725.26602"
           },
           "System.Diagnostics.StackTrace.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.1525.16413"
+            "fileVersion": "8.0.1725.26602"
           },
           "System.Formats.Asn1.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.1525.16413"
+            "fileVersion": "8.0.1725.26602"
           },
           "System.IO.Compression.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.1525.16413"
+            "fileVersion": "8.0.1725.26602"
           },
           "System.IO.MemoryMappedFiles.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.1525.16413"
+            "fileVersion": "8.0.1725.26602"
           },
           "System.Linq.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.1525.16413"
+            "fileVersion": "8.0.1725.26602"
           },
           "System.Net.Http.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.1525.16413"
+            "fileVersion": "8.0.1725.26602"
           },
           "System.Net.NameResolution.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.1525.16413"
+            "fileVersion": "8.0.1725.26602"
           },
           "System.Net.NetworkInformation.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.1525.16413"
+            "fileVersion": "8.0.1725.26602"
           },
           "System.Net.Primitives.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.1525.16413"
+            "fileVersion": "8.0.1725.26602"
           },
           "System.Net.Quic.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.1525.16413"
+            "fileVersion": "8.0.1725.26602"
           },
           "System.Net.Security.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.1525.16413"
+            "fileVersion": "8.0.1725.26602"
           },
           "System.Net.Sockets.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.1525.16413"
+            "fileVersion": "8.0.1725.26602"
           },
           "System.Private.CoreLib.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.1525.16413"
+            "fileVersion": "8.0.1725.26602"
           },
           "System.Private.Uri.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.1525.16413"
+            "fileVersion": "8.0.1725.26602"
           },
           "System.Private.Xml.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.1525.16413"
+            "fileVersion": "8.0.1725.26602"
           },
           "System.Reflection.Metadata.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.1525.16413"
+            "fileVersion": "8.0.1725.26602"
           },
           "System.Runtime.Numerics.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.1525.16413"
+            "fileVersion": "8.0.1725.26602"
           },
           "System.Security.Claims.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.1525.16413"
+            "fileVersion": "8.0.1725.26602"
           },
           "System.Security.Cryptography.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.1525.16413"
+            "fileVersion": "8.0.1725.26602"
           },
           "System.Security.Principal.Windows.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.1525.16413"
+            "fileVersion": "8.0.1725.26602"
           },
           "System.Text.RegularExpressions.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.1525.16413"
+            "fileVersion": "8.0.1725.26602"
           },
           "System.Threading.Channels.dll": {
             "assemblyVersion": "8.0.0.0",
-            "fileVersion": "8.0.1525.16413"
+            "fileVersion": "8.0.1725.26602"
           }
         }
       },
-      "Microsoft.NET.ILLink.Tasks/8.0.15": {},
+      "Microsoft.NET.ILLink.Tasks/8.0.17": {},
       "Microsoft.OData.Edm/7.21.6": {
         "dependencies": {
           "System.Runtime.CompilerServices.Unsafe": "4.6.0",
@@ -190,17 +190,17 @@
       "serviceable": false,
       "sha512": ""
     },
-    "runtimepack.Microsoft.NETCore.App.Runtime.win-x64/8.0.15": {
+    "runtimepack.Microsoft.NETCore.App.Runtime.win-x64/8.0.17": {
       "type": "runtimepack",
       "serviceable": false,
       "sha512": ""
     },
-    "Microsoft.NET.ILLink.Tasks/8.0.15": {
+    "Microsoft.NET.ILLink.Tasks/8.0.17": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-s4eXlcRGyHeCgFUGQnhq0e/SCHBPp0jOHgMqZg3fQ2OCHJSm1aOUhI6RFWuVIcEb9ig2WgI2kWukk8wu72EbUQ==",
-      "path": "microsoft.net.illink.tasks/8.0.15",
-      "hashPath": "microsoft.net.illink.tasks.8.0.15.nupkg.sha512"
+      "sha512": "sha512-x5/y4l8AtshpBOrCZdlE4txw8K3e3s9meBFeZeR3l8hbbku2V7kK6ojhXvrbjg1rk3G+JqL1BI26gtgc1ZrdUw==",
+      "path": "microsoft.net.illink.tasks/8.0.17",
+      "hashPath": "microsoft.net.illink.tasks.8.0.17.nupkg.sha512"
     },
     "Microsoft.OData.Edm/7.21.6": {
       "type": "package",
